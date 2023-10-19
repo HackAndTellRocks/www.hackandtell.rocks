@@ -1,6 +1,6 @@
 baseURL = 'https://www.hackandtell.rocks/'
 languageCode = 'en-us'
-title = 'Hack and Tell Milwaukee'
+title = 'Hack and Tell Rocks'
 
 [module]
   [[module.imports]]
