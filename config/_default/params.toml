@@ -1,0 +1,17 @@
+favicon = true
+
+# the theme doesn't support discord and having just github looks funny so
+# disable them for now.
+footer_socials = false
+
+[social.links]
+  github = 'HackAndTellRocks'
+  discord = 'https://discord.gg/CGH5WYyPaG'
+
+[social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  reddit = true
+  email = true
+

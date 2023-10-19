@@ -1,0 +1,8 @@
+baseURL = 'https://www.hackandtell.rocks/'
+languageCode = 'en-us'
+title = 'Hack and Tell Milwaukee'
+
+[module]
+  [[module.imports]]
+    path = 'github.com/wjh18/hugo-liftoff/v3'
+
