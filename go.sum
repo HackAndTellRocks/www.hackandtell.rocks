@@ -1,6 +1,2 @@
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf h1:BY+sUxbApZGGlUbDKGBUAENu/9FBGdv4SdqrkzSSH2Y=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230919154732-c086834f0ebf/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
-github.com/wjh18/hugo-liftoff v2.2.2+incompatible h1:/B/Onmn8o6MgPjgRQ4DVyxnjK6L4bWNXUjNTWafzdqc=
-github.com/wjh18/hugo-liftoff v2.2.2+incompatible/go.mod h1:usja5DS7iL2SeltGLWFATSOx7Iuu6g2XtWEGMi8ljFY=
 github.com/wjh18/hugo-liftoff/v3 v3.4.3 h1:AVpRFjbgroI0FOJbobJwGxVuPK2n/peKi9O+pfMNIEw=
 github.com/wjh18/hugo-liftoff/v3 v3.4.3/go.mod h1:V0l/Hfgg7sNFpGjEWXwtSLnYWzwT9n2I6CYq83is80E=
