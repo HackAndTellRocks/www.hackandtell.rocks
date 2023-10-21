@@ -4,6 +4,8 @@ subtitle: Hack And Tell 24
 date: 2023-10-21
 ---
 
+![Introductions](images/introductions.jpg)
+
 ## Location
 
 [UWM Lubar Entrepreneurship Center  
