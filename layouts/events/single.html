@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container">
+  <section class="page-header--c">
+    <h1 class="page-header-title">{{ .Params.Project }}</h1>
+    <p class="page-header-desc">{{ .Params.Author }}</p>
+  </section>
+</div>
+<section class="generic-single">
+  <div class="single-container markdown">
+    {{ .Content }}
+  </div>
+</section>
+{{ end }}
