@@ -5,7 +5,7 @@
   <div class="section footer">
     <p class="footer-copyright">
       &copy; 2015-2020 &middot; RokkinCat<br/>
-      &copy; {{ now.Format "2006" }} &middot; 
+      &copy; {{ .Site.Copyright }} &middot; 
       <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
       {{ with .Site.Params.footer_text | markdownify }}
         <span>&middot; {{ . }}</span>

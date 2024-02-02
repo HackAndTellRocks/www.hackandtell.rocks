@@ -1,6 +1,7 @@
 baseURL = 'https://www.hackandtell.rocks/'
 languageCode = 'en-us'
 title = 'Hack and Tell Rocks'
+copyright = '2023-2024'
 
 [module]
   [[module.imports]]
