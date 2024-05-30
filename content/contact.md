@@ -8,12 +8,12 @@ Do you have a question that's not answered on the
 [Frequently Asked Questions Page]({{< ref "/faq" >}}), do you want to help
 organize future events, do you want to help sponsor a future event?
 
-If you've answered **YES!** to any of these questions please reach out to us
-at ***We need to figure this out...***!
+If you've answered **YES!** to any of these questions please reach out to us!
 
 Of course we'll be happy to respond if you have something else to contact us
 about as long as it's not our car's extended warranty!
 
+[E-Mail](mailto:contact@hackandtell.rocks)  
 [Discord](https://discord.gg/CGH5WYyPaG)  
 [GitHub](https://github.com/HackAndTellRocks)
 
