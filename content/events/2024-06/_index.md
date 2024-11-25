@@ -9,7 +9,8 @@ location: 220 E Buffalo Street, Milwaukee, WI 53202
 eventbrite: https://www.eventbrite.com/e/hack-tell-tickets-907650455947
 ---
 
-![Introductions](images/introductions.jpg)
+![Getting Ready](images/IMG_3572.jpg)
+![Introductions](images/IMG_3573.jpg)
 
 We are pleased to announce that the 25th Hack and Tell will be June 8th 2024!
 
