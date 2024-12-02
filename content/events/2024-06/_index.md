@@ -39,7 +39,7 @@ well!
 # RSVP
 
 [RSVPs](https://www.eventbrite.com/e/hack-tell-tickets-907650455947) are
-**OPEN** now!
+now closed!
 
 # Location
 
