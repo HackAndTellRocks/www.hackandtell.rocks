@@ -1,4 +1,5 @@
 favicon = true
+avatar = 'logo.png'
 
 # the theme doesn't support discord and having just github looks funny so
 # disable them for now.
