@@ -50,6 +50,14 @@ Milwaukee, WI 53202](https://www.openstreetmap.org/node/5560576658#map=19/43.034
 
 # Sponsors
 
+## Breakfast
+
+![mitobyte wordmark](/images/sponsors/mitobyte.png)
+
+Breakfast is being sponsored by [mitobyte](https://mitobyte.com/)
+
+## Lunch
+
 None yet, if you're interested, please get in [touch](/contact)!
 
 # Schedule
