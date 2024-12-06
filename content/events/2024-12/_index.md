@@ -54,28 +54,28 @@ None yet, if you're interested, please get in [touch](/contact)!
 
 # Schedule
 
-**9:00 AM - 9:30 AM | Project Introductions**
+**Project Introductions** *9:00 AM - 9:30 AM*
 
 Event start and optionally share what you plan to work on.
 
-**9:30 AM - 11:30 AM | Work Time**
+**Work Time** *9:30 AM - 11:30 AM*
 
 Work on your project. Feel free to walk around and chat with others to see
 what they are working on.
 
-**11:30 AM - 12:30 PM | Lunch**
+**Lunch** *11:30 AM - 12:30 PM*
 
 Lunch will **not** be provided. Feel free to leave to grab food elsewhere as
 there are many great options in the Third Ward. No set end time for lunch. Be
 sure to take a break though, this is a great time to see what others are
 working on.
 
-**12:30 PM - 3:30 PM | Work Time**
+**Work Time** *12:30 PM - 3:30 PM*
 
 Work on your project. Feel free to walk around and chat with others to see
 what they are working on.
 
-**3:30 PM - 4:30 PM | Project Presentations**
+**Project Presentations** *3:30 PM - 4:30 PM*
 
 Give a short presentation on the progress you made during the day. This is
 optional, but if you do you will be able to choose a prize.
