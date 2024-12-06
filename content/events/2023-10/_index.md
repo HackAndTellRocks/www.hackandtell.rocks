@@ -17,7 +17,7 @@ eventbrite: https://www.eventbrite.com/e/hack-tell-tickets-726187114207
 
 # Sponsors
 
-[![SwayDM](/images/sponsors/swaydm.png)](https://sway.dm/info/)
+{{% sponsor_sway_dm %}}
 
-[![Newance](/images/sponsors/newance.png)](https://newance.co)
+{{% sponsor_newance %}}
 
