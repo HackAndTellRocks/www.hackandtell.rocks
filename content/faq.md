@@ -29,16 +29,18 @@ at the discretion of the event organizers.
 
 ## CAN I COME WITHOUT AN IDEA?
 
-Absolutely! You can join someone else's project, work on a challenge project
-provided by one of the RokkinCats, or dream up something on the spot. You can
-fiddle with anything you've been tinkering with: prototype that business idea,
-prove to a co-worker that your algorithm will work in that one special case, or
-make a gift for a special someone.
+Absolutely! You can join someone else's project, work on some coding
+challenges, or dream up something on the spot. You can fiddle with anything
+you've been tinkering with: prototype that business idea, prove to a co-worker
+that your algorithm will work in that one special case, or make a gift for a
+special someone.
 
 ## WHAT SHOULD I BRING?
 
 Most people bring their laptops, chargers, and anything else they need to work
-on their projects. Feel free to bring anything you need: a loom, a guitar, etc.
+on their projects. Feel free to bring anything you need: a loom, a guitar,
+etc. Just remember to be considerate of those that are working around you.
+
 Tell us in advance if you plan to bring something that could be considered a
 weapon, but anything else is fair game.
 
@@ -49,30 +51,31 @@ of your ideas. We are just here to help them move it forward.
 
 ## WILL THERE BE FOOD?
 
-Yes, we will provide breakfast and lunch. Breakfast is typically pastries,
-bagels, donuts, and coffee from local restaurant. Lunch is typically an
-assortment of different burritos from Chipotle, all with white rice. If you
-can't eat what we're planning to bring, please let us know and we'll order you
-something else.
+Depends on sponsorship and will vary from event to event. We try to make sure
+the event is near multiple food options in the event that we are unable to
+find sponsors for food.
 
 ## WILL THERE BE PRIZES?
 
 An assortment of small prizes will be awarded at each event. These are usually
-board games, microodrones, nerf guns, or small gadgets. If you or your company
-would like to donate some prizes, we'd love to have them! Please contact us!
+games, legos, nerf guns, small gadgets, etc. If you or your company would like
+to donate some prizes, we'd love to have them! Please
+[contact us]({{<ref "/contact" >}})!
 
 ## WHY DO YOU RUN YOUR HACKATHON DIFFERENTLY THAN EVERYONE ELSE?
 
 We believe a business plan shouldn't win a hackathon. We keep our prize values
 low, and we welcome only people who want to build stuff. If you're interested
 in why, read this article we wrote about the
-[Three Types of Harmful Hackathons](https://web.archive.org/web/20221127144446mp_/https://rokkincat.com/blog/2015-04-13-three-types-of-harmful-hackathons/).
+[Three Types of Harmful
+Hackathons](https://web.archive.org/web/20221127144446mp_/https://rokkincat.com/blog/2015-04-13-three-types-of-harmful-hackathons/).
 
 ## DO I HAVE TO TALK IN FRONT OF EVERYONE?
 
 Nope, no pressure at all. We always love to see what cool stuff people are
 making, but we understand public presentations aren't for everyone. If you do
-present, we ask that you keep it short and sweet. A good general format is:
+present, we ask that you keep it short and sweet and under three minutes. A
+good general format is:
 
 > I made ________, and it does ________. I worked on it because  ________ and
 > it is made with ________. Before today, I had done ________, and today I
