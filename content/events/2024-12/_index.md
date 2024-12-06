@@ -14,9 +14,9 @@ We are pleased to announce that the 26th Hack and Tell will be December 21st
 2024!
 
 Thank you everyone for your support as we are getting these events going
-again! However we do not currently have any sponsors for this event so we are
-***not*** going to be able to provide lunch. I know this is a bummer, but this
-event is in the 3rd Ward so there are lots of lunch options available.
+again! However we do not currently have a lunch sponsor for this event so we
+are ***NOT*** going to be able to provide lunch. I know this is a bummer, but
+this event is in the 3rd Ward so there are lots of lunch options available.
 
 Also, we ask that everyone please make sure you RSVP if you are planning on
 coming. Like wise, if you've RSVP'd and aren't going to make it please make
