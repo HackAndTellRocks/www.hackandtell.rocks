@@ -8,7 +8,7 @@ finish: 2024-12-21T17:00:00-0500
 location: 220 E Buffalo Street, Milwaukee, WI 53202
 ---
 
-![Introductions](images/introductions.jpg)
+![Introductions](/images/logo.png)
 
 We are pleased to announce that the 26th Hack and Tell will be December 21st
 2024!
