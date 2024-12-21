@@ -14,6 +14,6 @@ Of course we'll be happy to respond if you have something else to contact us
 about as long as it's not our car's extended warranty!
 
 [E-Mail](mailto:contact@hackandtell.rocks)  
-[Discord](https://discord.gg/CGH5WYyPaG)  
+[Discord](https://discord.gg/daWvBpPUKz)  
 [GitHub](https://github.com/HackAndTellRocks)
 
