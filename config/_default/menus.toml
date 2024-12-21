@@ -18,8 +18,14 @@
   pageRef = '/events'
   weight = 40
 
+
+[[main]]
+  name = 'Sponsors'
+  pageRef = '/sponsors'
+  weight = 50
+
 [[main]]
   name = 'Contact'
   pageRef = '/contact'
-  weight = 50
+  weight = 60
 
