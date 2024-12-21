@@ -9,6 +9,23 @@ seo_title: Hack and Tell Milwaukee Sponsors
 Many thanks to all of our sponsors that have helped make Hack and Tell
 possible over the years!
 
+## Become A Sponsor
+
+Are you interested in becomming a sponsor? Our sponsorship opportunities
+include venue (hosting), breakfast, lunch, and prizes. Required amounts can
+vary depending on attendence, but any amount is appreciated.
+
+Here are some rough estimations based on previous events:
+
+* Breakfast: $150-250 USD
+* Lunch: $750-1000 USD
+* Prizes: Any amount
+
+You can reach us at [contact@hackandtell.rocks](mailto:contact@hackandtell.rocks)
+to discuss further!
+
+---
+
 ## Form Labs
 
 {{% sponsor_form_labs %}}
@@ -57,4 +74,3 @@ possible over the years!
 ### Sponsored Events
 
 * [2023-10 Venue](/events/2023-10)
-
